@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.5e36addb.chunk.js": "/static/js/0.5e36addb.chunk.js",
+    "static/js/0.5e36addb.chunk.js.map": "/static/js/0.5e36addb.chunk.js.map",
+    "main.css": "/static/css/main.2a7bf81b.chunk.css",
+    "main.js": "/static/js/main.9f338749.chunk.js",
+    "main.js.map": "/static/js/main.9f338749.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1cec090c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1cec090c.js.map",
+    "static/css/3.e0f850a3.chunk.css": "/static/css/3.e0f850a3.chunk.css",
+    "static/js/3.d1f3472e.chunk.js": "/static/js/3.d1f3472e.chunk.js",
+    "static/js/3.d1f3472e.chunk.js.map": "/static/js/3.d1f3472e.chunk.js.map",
+    "static/css/4.b310fb38.chunk.css": "/static/css/4.b310fb38.chunk.css",
+    "static/js/4.d24fa070.chunk.js": "/static/js/4.d24fa070.chunk.js",
+    "static/js/4.d24fa070.chunk.js.map": "/static/js/4.d24fa070.chunk.js.map",
+    "static/css/5.b310fb38.chunk.css": "/static/css/5.b310fb38.chunk.css",
+    "static/js/5.917e9494.chunk.js": "/static/js/5.917e9494.chunk.js",
+    "static/js/5.917e9494.chunk.js.map": "/static/js/5.917e9494.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dde98f734ef7dac9ab333e05ada5e7f7.js": "/precache-manifest.dde98f734ef7dac9ab333e05ada5e7f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.e0f850a3.chunk.css.map": "/static/css/3.e0f850a3.chunk.css.map",
+    "static/css/4.b310fb38.chunk.css.map": "/static/css/4.b310fb38.chunk.css.map",
+    "static/css/5.b310fb38.chunk.css.map": "/static/css/5.b310fb38.chunk.css.map",
+    "static/css/main.2a7bf81b.chunk.css.map": "/static/css/main.2a7bf81b.chunk.css.map",
+    "static/js/3.d1f3472e.chunk.js.LICENSE": "/static/js/3.d1f3472e.chunk.js.LICENSE",
+    "static/media/material-design-iconic-font.min.css": "/static/media/Material-Design-Iconic-Font.d2a55d33.woff",
+    "static/media/App.css": "/static/media/background.19cb9733.png",
+    "static/media/logo.png": "/static/media/logo.de2279ff.png",
+    "static/media/logo_pcb.png": "/static/media/logo_pcb.d8faad9e.png",
+    "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
+    "static/media/sprite-flags-24x24.css": "/static/media/sprite-flags-24x24.7ed12ca4.png",
+    "static/media/weather-icons.min.css": "/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cec090c.js",
+    "static/css/3.e0f850a3.chunk.css",
+    "static/js/3.d1f3472e.chunk.js",
+    "static/css/main.2a7bf81b.chunk.css",
+    "static/js/main.9f338749.chunk.js"
+  ]
+}
